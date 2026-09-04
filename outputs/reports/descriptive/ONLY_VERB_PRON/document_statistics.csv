@@ -1,0 +1,2 @@
+variant,documents,class_0_documents,class_1_documents,total_tokens,tokens_mean,tokens_median,tokens_std,tokens_min,tokens_max,empty_documents,empty_percent
+ONLY_VERB_PRON,237,115,122,5349,22.569620253164558,19.0,15.087611550964866,0,113,1,0.42194092827004215

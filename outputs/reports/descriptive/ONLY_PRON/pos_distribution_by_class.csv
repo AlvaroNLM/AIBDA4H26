@@ -1,0 +1,5 @@
+split,label,pos,count,percentage
+test,0,PRON,334,100.0
+test,1,PRON,409,100.0
+train,0,PRON,838,100.0
+train,1,PRON,882,100.0

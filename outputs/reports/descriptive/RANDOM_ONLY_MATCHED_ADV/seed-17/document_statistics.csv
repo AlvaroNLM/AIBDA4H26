@@ -1,0 +1,2 @@
+variant,documents,class_0_documents,class_1_documents,total_tokens,tokens_mean,tokens_median,tokens_std,tokens_min,tokens_max,empty_documents,empty_percent
+RANDOM_ONLY_MATCHED_ADV,237,115,122,704,2.970464135021097,2.0,2.916052335666122,0,17,46,19.40928270042194

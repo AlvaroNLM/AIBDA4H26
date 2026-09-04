@@ -1,0 +1,2 @@
+variant,macro_f1_mean,macro_f1_std,balanced_accuracy_mean,balanced_accuracy_std,roc_auc_mean,relative_macro_f1,performance_drop,n_tokens_mean
+POS_COUNTS,0.7638888888888888,,0.7638888888888888,,0.9097222222222222,,,

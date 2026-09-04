@@ -1,0 +1,5 @@
+split,label,pos,count,percentage
+test,0,VERB,477,100.0
+test,1,VERB,445,100.0
+train,0,VERB,1060,100.0
+train,1,VERB,904,100.0

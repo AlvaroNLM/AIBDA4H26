@@ -1,0 +1,5 @@
+split,label,pos,count,percentage
+test,0,NOUN,602,100.0
+test,1,NOUN,431,100.0
+train,0,NOUN,1321,100.0
+train,1,NOUN,1002,100.0

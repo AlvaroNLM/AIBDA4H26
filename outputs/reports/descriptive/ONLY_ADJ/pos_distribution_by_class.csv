@@ -1,0 +1,5 @@
+split,label,pos,count,percentage
+test,0,ADJ,136,100.0
+test,1,ADJ,83,100.0
+train,0,ADJ,264,100.0
+train,1,ADJ,170,100.0

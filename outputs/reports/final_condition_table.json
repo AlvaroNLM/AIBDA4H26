@@ -1,0 +1,13 @@
+[
+  {
+    "variant":"POS_COUNTS",
+    "macro_f1_mean":0.7638888889,
+    "macro_f1_std":null,
+    "balanced_accuracy_mean":0.7638888889,
+    "balanced_accuracy_std":null,
+    "roc_auc_mean":0.9097222222,
+    "relative_macro_f1":null,
+    "performance_drop":null,
+    "n_tokens_mean":null
+  }
+]
